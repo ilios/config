@@ -19,6 +19,9 @@
     "url": "https://github.com/ilios/config/issues"
   },
   "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "@ilios/eslint-config": "^1.0.0",
     "eslint-plugin-ember": "^6.2.0",

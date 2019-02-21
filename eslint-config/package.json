@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ilios/config/issues"
   },
-  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme"
+  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme",
+  "files": [
+    "index.js"
+  ]
 }
