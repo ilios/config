@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme",
   "dependencies": {
-    "@ilios/eslint-config": "^1.0.0"
+    "@ilios/eslint-config": "^1.0.0",
+    "eslint-plugin-ember": "^6.2.0",
+    "eslint-plugin-node": "^8.0.1"
   }
 }
