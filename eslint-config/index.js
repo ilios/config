@@ -7,9 +7,6 @@ module.exports = {
   extends: [
     'eslint:recommended',
   ],
-  env: {
-    browser: true
-  },
   rules: {
     /* Possible Errors http://eslint.org/docs/rules/#possible-errors */
     "comma-dangle": [2, "only-multiline"],
