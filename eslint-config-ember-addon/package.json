@@ -1,7 +1,7 @@
 {
-  "name": "@ilios/eslint-config-ember",
+  "name": "@ilios/eslint-config-ember-addon",
   "version": "1.0.0",
-  "description": "ESLint Config for Ilios Projects",
+  "description": "ESLint Config for Ilios Ember Addons",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,12 +18,12 @@
   "bugs": {
     "url": "https://github.com/ilios/config/issues"
   },
-  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme",
+  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember-addon#readme",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "@ilios/eslint-config": "^1.0.0",
-    "eslint-plugin-ember": "^6.2.0"
+    "@ilios/eslint-config-ember": "^1.0.0",
+    "eslint-plugin-node": "^8.0.1"
   }
 }

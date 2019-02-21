@@ -2,6 +2,7 @@
   "private": true,
   "workspaces": [
     "eslint-config",
-    "eslint-config-ember"
+    "eslint-config-ember",
+    "eslint-config-ember-addon"
   ]
 }
