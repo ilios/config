@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "workspaces": [
+    "eslint-config",
+    "eslint-config-ember"
+  ]
+}

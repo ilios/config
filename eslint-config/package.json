@@ -1,0 +1,22 @@
+{
+  "name": "@ilios/eslint-config",
+  "version": "1.0.0",
+  "description": "Ember Eslint for Ilios Projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilios/config.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslintconfig"
+  ],
+  "author": "Team Ilios <support@iliosproject.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilios/config/issues"
+  },
+  "homepage": "https://github.com/ilios/config/tree/master/eslint-config-ember#readme"
+}
