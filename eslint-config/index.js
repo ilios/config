@@ -18,5 +18,6 @@ module.exports = {
     'no-trailing-spaces': "error", //don't allow whitespace at the end of lines
     'eol-last': ["error", "always"], //require an empty line at the end of a file
     'no-multiple-empty-lines': { max: 2, maxEOF: 1, maxBOF: 0 }, //only one empty line allowed, none at the start of a file
+    'curly': ["error", "all"], //prevent single line blocks without curlys
   },
 };
